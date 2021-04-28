@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkrough
 - 👀 I’m interested in CI/CD 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on DYI python projects
+- 💞️ I’m looking to collaborate on simple python projects
 - 📫 How to reach me rkrough@gmail.com
 
 <!---
