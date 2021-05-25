@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rkrough
+- 👋 Hi, I’m Santosh
 - 👀 I’m interested in CI/CD, ADAS, eMobility
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Automation using Python
 - 💞️ I’m looking to collaborate on simple python projects
 - 📫 How to reach me rkrough@gmail.com
 
